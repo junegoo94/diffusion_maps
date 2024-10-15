@@ -1,1 +1,2 @@
-# diffusion_maps
+# Socio-Economic Deprivation Analysis: Diffusion Maps
+
