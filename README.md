@@ -1,5 +1,5 @@
 # Data-Driven Socio-Economic Deprivation Prediction via Dimensionality Reduction: The Power of Diffusion Maps
-**Accepted to 2024 IEEE International Conference on Big DATA (ABCSS)**
+**Accepted to 2024 IEEE International Conference on Big DATA (ABCSS)**\\
 **Reference**:
 ```
 
