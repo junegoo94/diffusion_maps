@@ -7,3 +7,4 @@ This research proposes a model to predict the location of the most deprived area
 ![](./diffusionmap_algorithm2.png)
 
 ## Results
+![](./results.png)
